@@ -1,0 +1,2 @@
+ 
+<?php echo $__env->make('layouts.layout_admin', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\disbudpar\resources\views/dashboard.blade.php ENDPATH**/ ?>
